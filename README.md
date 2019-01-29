@@ -2,7 +2,7 @@
 ===
 QQ交流：1020955970
 
-这是一个纯静态的网址导航网站，内容均由[viggo](https://github.com/0878/0/)收集并整理。项目基于bootstrap前端框架开发。
+永进云.星际导航，带你成功带你飞！
 
 ![](http://www.webstack.cc/assets/images/preview.gif)
 
